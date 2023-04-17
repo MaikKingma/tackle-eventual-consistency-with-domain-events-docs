@@ -6,7 +6,7 @@ const config = {
   title: 'Tackle Eventual Consistency with Domain Events',
   tagline: 'Devoxx UK - Mini Lab',
   url: 'https://www.the-experts.nl',
-  baseUrl: '/tackle-eventual-consistency-witch-domain-events/',
+  baseUrl: '/tackle-eventual-consistency-with-domain-events-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
