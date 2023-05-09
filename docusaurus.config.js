@@ -48,7 +48,7 @@ const config = {
       },
       items: [
         {
-          href: 'https://github.com/MaikKingma/javaland-clean-hexagonal-onion/tree/setup-done',
+          href: 'https://github.com/MaikKingma/tackle-eventual-consistency-with-domain-events/tree/get-started',
           target: '_blank',
           label: 'GitHub',
           position: 'right',
