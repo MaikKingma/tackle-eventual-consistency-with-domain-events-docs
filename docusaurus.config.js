@@ -54,7 +54,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://drive.google.com/file/d/1SuDqz11hQfi6WnbBqRoA6lY5ExlF69eB/view?usp=sharing',
+          href: 'https://docs.google.com/presentation/d/1_jv8KLRYHjY7-AefYU0StWXTiHKlNlzi6EGBSS4DCD0/edit?usp=sharing',
           target: '_blank',
           label: 'Slides',
           position: 'right',
